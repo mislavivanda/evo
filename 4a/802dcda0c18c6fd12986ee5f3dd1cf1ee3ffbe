@@ -1,0 +1,31 @@
+plugins/evo/src/evo/backends/sandbox_providers/__init__.py
+  s_803e217bd89a6c::t_c14ed10d9782f3 77
+plugins/evo/pyproject.toml
+  s_803e217bd89a6c::t_225526125a93dc 28,42
+plugins/evo/uv.lock
+  s_cc2f8e681b34c6::t_684b1cfbf1e442 867-868
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4a802dcda0c18c6fd12986ee5f3dd1cf1ee3ffbe",
+  "prompts": {},
+  "sessions": {
+    "s_803e217bd89a6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_e1a999c26ffegIrMmUb1WUsc54",
+        "model": "unknown"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    },
+    "s_cc2f8e681b34c6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e1a999c26ffegIrMmUb1WUsc54",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    }
+  }
+}
